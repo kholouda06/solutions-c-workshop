@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <math.h>
+
+int main()
+{
+
+Surface = longueur * largeur
+
+int main()
+{ 
+ float rayon,volume;
+  printf("entrez le rayon du sphere:");
+  scanf("%f",&rayon);
+  pi=3,1416
+  Volume = (4/3) * pi * pow(rayon,3).
+  printf("le volume de sphere :%f",&volume);
+
+
+  return 0;
+}
+
+

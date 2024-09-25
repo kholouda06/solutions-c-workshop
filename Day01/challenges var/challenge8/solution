@@ -1,0 +1,19 @@
+#include <stdio.h>
+#include <math.h> 
+
+int main() {
+    float num1, num2, num3, moyenneGeo;
+
+    printf("Entrez le premier nombre : ");
+    scanf("%f", &num1);
+    printf("Entrez le deuxième nombre : ");
+    scanf("%f", &num2);
+    printf("Entrez le troisième nombre : ");
+    scanf("%f", &num3);
+
+    moyenneGeo = pow(num1 * num2 * num3, 1.0/3.0);
+
+    printf("La moyenne géométrique est : %.2f\n", moyenneGeo);
+
+    return 0;
+}

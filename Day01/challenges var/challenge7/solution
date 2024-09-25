@@ -1,0 +1,15 @@
+int main() {
+    float num1, num2, num3, moyenne;
+    printf("Entrez le premier nombre : ");
+    scanf("%f", &num1);
+    printf("Entrez le deuxième nombre : ");
+    scanf("%f", &num2);
+    printf("Entrez le troisième nombre : ");
+    scanf("%f", &num3);
+
+    moyenne = (num1 * 2 + num2 * 3 + num3 * 5) / (2 + 3 + 5);
+
+    printf("La moyenne pondérée est : %.2f\n", moyenne);
+
+    return 0;
+}
