@@ -53,11 +53,11 @@ Nous désirons afficher la mention obtenue par un élève en fonction de la moye
 
 ### Challenge 12 : Comparaison d'Instants
 
-Écrivez un programme C qui lit deux instants dans le format `HH:MM:SS` et affiche un des messages suivants :
+crivez un programme C qui lit deux instants dans le format `HH:MM:SS` et affiche un des messages suivants :
   - Le premier instant vient avant le deuxième ;
   - Le deuxième instant vient avant le premier ;
   - Il s'agit du même instant.
-
+É
 ### Challenge 13 : Point sur un Segment
 
 Écrivez un programme C qui lit les coordonnées des deux extrémités d'un segment, et lit ensuite les coordonnées d'un point dans le plan et dit si ce dernier se trouve ou non sur le segment.

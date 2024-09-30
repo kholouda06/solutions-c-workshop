@@ -10,7 +10,6 @@
 ### Challenge 2 : Factorielle d'un Nombre
 
 Écrivez un programme C qui calcule la factorielle d'un nombre entier positif `n` entré par l’utilisateur. La factorielle de `n` est le produit de tous les entiers positifs inférieurs ou égaux à `n`. Par exemple, pour `n` = 5, affichez : `5! = 120`.
-
 ### Challenge 3 : Somme des N Nombres
 
 Écrivez un programme C qui demande un nombre entier `n` à l’utilisateur et calcule la somme des `n` premiers nombres naturels. Par exemple, pour `n` = 4, la somme est `1 + 2 + 3 + 4 = 10`.

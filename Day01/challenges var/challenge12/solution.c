@@ -4,7 +4,7 @@
 int main()
 {
     int nombre, unite,dizaine,centaine,millier,inverse;
-    ptintf("entrez un nombre entier de 4chiffres");
+    printf("entrez un nombre entier de 4chiffres");
     scanf("%d",&nombre);
     dizaine=(nombre/10)%10;
     centaine=(nombre/100)%10;
